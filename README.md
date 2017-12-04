@@ -1,1 +1,1 @@
-# BTP
+Signature verification is an important biometric technique that aims to detect whether a given signature is forged or genuine.It is essential in preventing falsification of documents in numerous financial, legal, and other commercial settings. The objective of this project to recognize whether a signature has been forged or not. It also aims to automate the process of signature verification by using convolutional neural networks.
